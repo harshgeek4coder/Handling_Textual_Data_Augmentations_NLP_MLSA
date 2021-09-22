@@ -5,10 +5,10 @@ This Repository Contains resources for the event organized in Microsoft Learn St
 This Workshop would help you explore about performing textual augmentations for NLP.
 The workshop was led by Microsoft Learn Student Ambassador, Harsh Sharma(Alpha Student Ambassador). During this one-hour workshop, you will learn about textual data augmentation, including how to perform data augmentation for NLP, current trends, state-of-the-art architectures, and packages that one could use to generate augmented data. There will be a hands-on session with Q&A.
 
-Event Organizer : Harsh Sharma - Microsoft Learn Student Ambassador(Alpha Level)
-Event Date : 22nd September 2021, Wednesday
-Time : 5:30 PM - 6:30 PM IST ( IST - India Standard Time )
-Platform : Teams Live Event
+- Event Organizer : Harsh Sharma - Microsoft Learn Student Ambassador(Alpha Level)
+- Event Date : 22nd September 2021, Wednesday
+- Time : 5:30 PM - 6:30 PM IST ( IST - India Standard Time )
+- Platform : Teams Live Event
 
 Microsoft Technologies used and showcased :
 - VScode
