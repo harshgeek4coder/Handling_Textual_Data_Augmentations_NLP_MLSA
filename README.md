@@ -3,7 +3,7 @@ This Repository Contains resources for the event organized in Microsoft Learn St
 
 To run the streamlit application:
 ```
-steamlit run main.py
+streamlit run main.py
 ```
 
 
