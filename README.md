@@ -17,9 +17,7 @@ Microsoft Technologies used and showcased :
 
 ## Event Recording Link :  [Link](https://1drv.ms/v/s!AqGrLGWg8_-jsDtCMj8TAounInyf?e=0iEVyo)
 
-
-
-
+### Demo of NLPAug Package for Handling Textual Augmentations in NLP:
 
 To run the streamlit application:
 ```
